@@ -11,7 +11,7 @@ import "C"
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/swaggo/swag/testdata/simple_cgo/api"
+	"github.com/touyu/swag/testdata/simple_cgo/api"
 )
 
 // @title Swagger Example API
